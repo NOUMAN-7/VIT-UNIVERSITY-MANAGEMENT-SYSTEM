@@ -5,3 +5,5 @@ Aim Of the Project : The goal of the "VIT University Management System" project,
 Code Languages/data base: Front end -Java Awt, Swing and Backend Mysql
 
 
+![](Readme_files/p1.gif)
+
