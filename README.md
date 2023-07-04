@@ -1,6 +1,7 @@
 # VIT-UNIVERSITY-MANAGEMENT-SYSTEM
 
-#[Demo Video](https://drive.google.com/file/d/1_l7RtRxrMdEXkDInA1HjIsFwmqpWTOPL/view?usp=drive_link)
+#[DEMO VIDEO -->](https://drive.google.com/file/d/1n4tmyqfMskmu6EnhTJA3pnn4N4N39YmN/view?usp=sharing)
+
 ![](Readme_files/sss1.gif)
 
 
